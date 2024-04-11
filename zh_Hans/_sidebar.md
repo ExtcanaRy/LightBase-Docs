@@ -1,0 +1,2 @@
+- [简体中文](/ "LightBase 文档")
+- [English](https://extcanary.github.io/LightBase-Docs/en/ "LightBase Docs")
